@@ -1,5 +1,7 @@
 # VideoPointer
 
+<img src="videopointer.jpg" alt="videopointer text on video">
+
 ## Description
 This script allows adding text to a video at a specified point based on motion tracking. It uses the OpenCV library for video analysis and Tkinter for the graphical interface.
 
